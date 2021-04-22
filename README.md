@@ -102,4 +102,4 @@ My application has several features
 
 <img src="images/han.PNG" width="900">
 
-<img src="images/seven.png" width="900">
+<img src="images/mail.PNG" width="900">
