@@ -27,20 +27,20 @@ email, description about user, password and user profile image.
 POSTS table contain user's posts. Table has attrubutes like body(post of user),id and user_id which is foreign key of 
 the table.
 
-<img src="images/twone.PNG" width="900">
+<img src="images/twone.png" width="900">
 
 
 ### POST_IMAGES table:
  POST_IMAGES table contain user posted files, like gif,jpg and png. Table's attributes are id, post_id(foreign key) and
  postImage.
 
-<img src="images/twtwo.PNG" width="900">
+<img src="images/twtwo.png" width="900">
 
 
 ### CONTACTS table:
  CONTACTS table contain messages of users to Administration of the Forum. Table has id, user_id(foreign key), name, email,phone_number, subject and message attributes.
 
-<img src="images/twthree.PNG" width="900">
+<img src="images/twthree.png" width="900">
 
 
 ## DATABASE ERD
@@ -48,7 +48,7 @@ the table.
   My database has one to many relationship between USERS and POSTS tables, also between USERS and CONTACTS tables.
   It has one to one relationship between POSTS and POST_IMAGES tables
    
-<img src="images/eight.png" width="900">
+<img src="images/eight.PNG" width="900">
 
 
 
@@ -67,7 +67,7 @@ the table.
 <img src="images/ten.png" width="900">
 
 ### Privacy page
-<img src="images/eleven.png" width="900">
+<img src="images/eleven.PNG" width="900">
 
 ### Contact page
 <img src="images/twelve.png" width="900">
