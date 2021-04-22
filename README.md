@@ -21,7 +21,7 @@ My database consist of four tables: USERS table; POSTS table; POST_IMAGES table;
 USERS table has information about authorized users, and contain informations like id, name, username(short form of name), 
 email, description about user, password and user profile image.
 
-<img src="images/twenty.PNG" width="900">
+<img src="images/twenty.png" width="900">
 
 ### POSTS table:
 POSTS table contain user's posts. Table has attrubutes like body(post of user),id and user_id which is foreign key of 
