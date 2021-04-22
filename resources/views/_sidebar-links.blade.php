@@ -15,7 +15,7 @@
             href="{{route('privacy')}}"
         >Privacy</a></li>
         <li><a
-            class="font-bold text-lg mb-4 block ml-10"
+            class="font-bold text-lg mb-4 block m-10"
             href="{{route('contact')}}"
         >Contact</a></li>
         
