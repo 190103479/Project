@@ -7,7 +7,7 @@ It's is like Clubhouse, but without audio.
 This is very useful application, where people can get close to each other, and upgrade communication skills!
 
 
-![](images/seventeen.jpg)
+<img src="images/seventeen.png" width="900">
 
 
 ## My DATABASE
@@ -17,26 +17,26 @@ My database consist of four tables: USERS table; POSTS table; POST_IMAGES table;
 USERS table has information about authorized users, and contain informations like id, name, username(short form of name), 
 email, description about user, password and user profile image.
 
-<img src="images/twenty.png" width="900">
+<img src="images/twenty.PNG" width="900">
 
 ### POSTS table:
 POSTS table contain user's posts. Table has attrubutes like body(post of user),id and user_id which is foreign key of 
 the table.
 
-<img src="images/twone.png" width="900">
+<img src="images/twone.PNG" width="900">
 
 
 ### POST_IMAGES table:
  POST_IMAGES table contain user posted files, like gif,jpg and png. Table's attributes are id, post_id(foreign key) and
  postImage.
 
-<img src="images/twtwo.png" width="900">
+<img src="images/twtwo.PNG" width="900">
 
 
 ### CONTACTS table:
  CONTACTS table contain messages of users to Administration of the Forum. Table has id, user_id(foreign key), name, email,phone_number, subject and message attributes.
 
-<img src="images/twthree.png" width="900">
+<img src="images/twthree.PNG" width="900">
 
 
 ## DATABASE ERD
