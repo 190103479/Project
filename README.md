@@ -19,7 +19,7 @@ My database consist of four tables: USERS table; POSTS table; POST_IMAGES table;
 
 ### USERS table:
 USERS table has information about authorized users, and contain informations like: id, name, username(short form of name), 
-email, description about user, password(encrypted) and user profile image.
+email, description about user, password(bcrypted) and user profile image.
 
 <img src="images/twenty.png" width="900">
 
