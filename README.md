@@ -7,7 +7,7 @@ It's is like Clubhouse, but without audio.
 This is very useful application, where people can get close to each other, and upgrade communication skills!
 
 
-<img src="images/us.png" width="900">
+<img src="images/seventeen.jpg" width="900">
 
 
 ## My DATABASE
